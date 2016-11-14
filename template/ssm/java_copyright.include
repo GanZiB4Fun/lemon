@@ -1,0 +1,6 @@
+/*
+ * Powered By JavaGen
+ * Web Site: http://www.springside.cn
+ * Since 2013 <#if now??>- ${now?string('yyyy')}</#if>
+ */
+

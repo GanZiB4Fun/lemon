@@ -1,0 +1,15 @@
+import java.util.List;
+
+import ${basepackage}.model.*;
+import ${basepackage}.dao.*;
+import ${basepackage}.service.*;
+import ${basepackage}.vo.query.*;
+
+/**
+ * 工具自动生成
+ * @author  email:xiaoming(a)wallaw.cn
+ * @version 1.0
+ * @since 1.0
+ * <#if now??> 该文件创建于 ${now?string('yyyy-MM-dd hh:mm:ss')}</#if>
+ */
+
